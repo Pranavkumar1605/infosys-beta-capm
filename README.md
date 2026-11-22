@@ -2,6 +2,7 @@
 Here in this project it was measured how much INFY.NS moved with NIFTY 50. How much beta influenced the INFOSYS
 
 **DATA** - I used the INFOSYS and NIFTY 50 dataset pulled from yfinance with a date range of 10 years.
+
 **METHOD** - Download price - clean it - claculate returns - OLS - plot regression graph.
 
 ## Results
